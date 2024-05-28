@@ -1,19 +1,10 @@
 # Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+Download the project deploy on chrome extension and run the project
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+# About Link Tracker
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+In this project we are trying to create a chrome extension in which user can save there link or tab in the chrome browser for future work or to remember the site.
+This project consist HTML, CSS, JAVASCRIPT files to execute the chrome extension.
+To get the link of current active tab we ask the chrome API to provide the link as an input that later be displayed on the Tracker page.
 
 Happy Coding!
